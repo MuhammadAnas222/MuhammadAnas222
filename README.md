@@ -4,8 +4,6 @@ Third-year **Computing Science** student at the **University of Alberta** (Bioin
 
 ## 🔭 What I'm working on
 
-- 🧬 A **biomedical question-answering agent** that uses LLM tool calling over public APIs (Open Targets, UniProt) and evaluates answers for accuracy and token cost *(in progress)*
-- 📚 Learning how LLM agents, prompt design, and retrieval work in practice
 - 🎓 Looking for a **Winter/Summer 2027 internships** in AI / software development / ML
 
 ## 🧰 Tech
