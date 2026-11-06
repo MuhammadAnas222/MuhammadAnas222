@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Muhammad Anas 👋
 
-<!--
-**MuhammadAnas222/MuhammadAnas222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year **Computing Science** student at the **University of Alberta** (Bioinformatics minor), based in Edmonton, AB. I like building software that turns data into something useful, from Android apps to ML pipelines, and I'm especially interested in Reinforcement Learning and in applications where computing meets biological data.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧬 A **biomedical question-answering agent** that uses LLM tool calling over public APIs (Open Targets, UniProt) and evaluates answers for accuracy and token cost *(in progress)*
+- 📚 Learning how LLM agents, prompt design, and retrieval work in practice
+- 🎓 Looking for a **Winter/Summer 2027 internships** in AI / software development / ML
+
+## 🧰 Tech
+
+**Languages:** Python · Java · C · SQL · JavaScript · HTML/CSS · R · Bash
+
+**ML & data:** scikit-learn · NumPy · pandas · Matplotlib · OpenCV · Gymnasium
+
+**Databases:** SQLite · MongoDB · PostgreSQL
+
+**Tools:** Git · GitHub · Android Studio · Firebase · Jupyter · Google Colab · Linux · LLM APIs · tool use / agents · prompt engineering · evaluation
+
+## 🎓 Education
+
+- **BSc Computing Science, Bioinformatics Minor** · University of Alberta (2024 to 2028)
+- Coursework includes Reinforcement Learning, Computer Vision, AI, Data Science & ML, Algorithms, Databases, and Software Engineering
+
+## 📫 Get in touch
+
+- 📧 khananas1291@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/muhammad-anas-khan-2ab762328
